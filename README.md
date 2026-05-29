@@ -107,5 +107,5 @@ This project strengthened hands-on skills in email header analysis, authenticati
 ---
 
 ## 👤 Author
-**Shaiva Kumar**  
+**Sai Adithya**  
   
